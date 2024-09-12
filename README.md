@@ -59,9 +59,11 @@ endmodule
 ```
 
 **RTL realization**
-![image](https://github.com/user-attachments/assets/16514ca5-768d-4762-98d5-8ae07c363c8f)
+![image](https://github.com/user-attachments/assets/2743b47c-ca94-4043-931d-2596b29f761b)
+
 
 **Output:**
+![image](https://github.com/user-attachments/assets/47cc0c43-60f8-4cc7-9265-301dbcdc7226)
 
 
 **Result:**
